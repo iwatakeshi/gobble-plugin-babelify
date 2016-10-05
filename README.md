@@ -1,2 +1,2 @@
-# gobble-plugin-babelify
-A babelify plugin for gobble
+# gobble-task-babelify
+A babelify task for gobble
